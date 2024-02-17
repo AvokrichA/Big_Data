@@ -1,1 +1,34 @@
+Microsoft Windows [Version 10.0.19045.4046]
+(c) Корпорация Майкрософт (Microsoft Corporation). Все права защищены.
 
+C:\Users\Pobeda>cd C:\Users\Pobeda\Desktop\geekbrains\Big_Data\apache-spark-docker
+
+C:\Users\Pobeda\Desktop\geekbrains\Big_Data\apache-spark-docker>cd docker
+
+C:\Users\Pobeda\Desktop\geekbrains\Big_Data\apache-spark-docker\docker>cp C:\Users\Pobeda\Desktop\geekbrains\Big_Data\Seminar_2\C:\Users\Pobeda\Desktop\geekbrains\Big_Data\Seminar_2\archive\AB_NYC_2019.csv namenode:/
+"cp" не является внутренней или внешней
+командой, исполняемой программой или пакетным файлом.
+
+C:\Users\Pobeda\Desktop\geekbrains\Big_Data\apache-spark-docker\docker>cp C:\Users\Pobeda\Desktop\geekbrains\Big_Data\Seminar_2\C:\Users\Pobeda\Desktop\geekbrains\Big_Data\Seminar_2\archive\AB_NYC_2019.csv namenode:/
+"cp" не является внутренней или внешней
+командой, исполняемой программой или пакетным файлом.
+
+C:\Users\Pobeda\Desktop\geekbrains\Big_Data\apache-spark-docker\docker>cp C:\Users\Pobeda\Desktop\geekbrains\Big_Data\Seminar_2\C:\Users\Pobeda\Desktop\geekbrains\Big_Data\Seminar_2\archive\AB_NYC_2019.csv namenode:/
+"cp" не является внутренней или внешней
+командой, исполняемой программой или пакетным файлом.
+
+C:\Users\Pobeda\Desktop\geekbrains\Big_Data\apache-spark-docker\docker>git clone https://github.com/dertty/apache-spark-docker.git
+Cloning into 'apache-spark-docker'...
+remote: Enumerating objects: 575, done.
+remote: Counting objects: 100% (114/114), done.
+remote: Compressing objects: 100% (75/75), done.
+remote: Total 575 (delta 38), reused 105 (delta 32), pack-reused 461R
+Receiving objects: 100% (575/575), 65.19 MiB | 6.53 MiB/s, done.
+Resolving deltas: 100% (372/372), done.
+Updating files: 100% (480/480), done.
+
+C:\Users\Pobeda\Desktop\geekbrains\Big_Data\apache-spark-docker\docker>cp C:\Users\Pobeda\Desktop\geekbrains\Big_Data\Seminar_2\C:\Users\Pobeda\Desktop\geekbrains\Big_Data\Seminar_2\archive\AB_NYC_2019.csv namenode:/
+"cp" не является внутренней или внешней
+командой, исполняемой программой или пакетным файлом.
+
+C:\Users\Pobeda\Desktop\geekbrains\Big_Data\apache-spark-docker\docker>
