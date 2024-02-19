@@ -1,3 +1,28 @@
+Загрузите датасет по ценам на жилье Airbnb, доступный на kaggle.com: https://www.kaggle.com/dgomonov/new-york-city-airbnb-open-data
+Подсчитайте среднее значение и дисперсию по признаку ”price” в hive
+Используя Python, реализуйте скрипт mapper.py и reducer.py для расчета
+Проверьте правильность подсчета статистики методом mapreduce в сравнении со hive.
+
+Jupiter notebook
+
+import pandas as pd
+df = pd.read_csv('C:/Users/Pobeda/Desktop/geekbrains/Big_Data/Seminar_2/archive/AB_NYC_2019.csv')
+
+# Среднее значение:
+df['price'].mean()
+out 152.7206871868289
+
+#Дисперсия
+df['price'].var()
+out 57674.02524696099
+
+
+
+
+
+!!! Через командную строку ничего не вышло.
+
+
 Microsoft Windows [Version 10.0.19045.4046]
 (c) Корпорация Майкрософт (Microsoft Corporation). Все права защищены.
 
